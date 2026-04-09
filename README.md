@@ -1,1 +1,0 @@
-# obsdian_spec_kit
